@@ -73,20 +73,6 @@ Steps
 1. Clone this repository:
 
 git clone https://github.com/your-username/Potato-Disease-Identification.git
-cd Potato-Disease-Identification
-
-
-2. Run the Gradio interface:
-
-python app.py
-
-
-3. Upload an image of a potato leaf and get predictions.
-
-
-
-
----
 
 Results
 
@@ -102,16 +88,7 @@ Sample predictions using Gradio:
 
 Gradio Interface
 
-A user-friendly Gradio interface is included to upload images and view predictions with confidence scores.
-
-
-
-
----
-
-License
-
-This project is licensed under the MIT License.
+A user-friendly Gradio interface is included to upload images and view predictions with confidence score for each class.
 
 
 ---
@@ -123,6 +100,7 @@ Kaggle for the PlantVillage Dataset.
 TensorFlow/Keras for Deep Learning tools.
 
 Contributions and guidance from Mr. Ismail (Lecturer in GC Skardu(MS in AI))  ismskd@gmail.com
+Mr. Manzoor Hussain Lecturer in GC Skardu( Supervisor) .
 
 
 
